@@ -6,6 +6,6 @@ public class VarEx2 {
         x = y; // 2. y의 값을 x에 저장
         y = tmp; //3. tmp의 값을 ydp 저장
         System.out.println("x= "+ x);
-        System.out.println("y= "+ y)b;
+        System.out.println("y= "+ y);
     }
 }
