@@ -1,4 +1,4 @@
-package loop;
+package loop.ex;
 
 public class WhileEx4 {
 
