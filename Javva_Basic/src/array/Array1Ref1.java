@@ -12,7 +12,7 @@ public class Array1Ref1 {
         students[2] = 70;
         students[3] = 60;
         students[4] = 50;
-        students[5] = 40;
+        students[5] = 40 ;
 
         System.out.println(students);
 
